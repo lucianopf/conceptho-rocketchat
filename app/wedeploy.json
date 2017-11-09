@@ -1,4 +1,7 @@
 {
   "id": "app",
-  "image": "rocketchat/rocket.chat:latest"
+  "image": "rocketchat/rocket.chat:latest",
+  "env": {
+    "MONGO_URL": "mongodb://db:27017/meteor"
+  }
 }
