@@ -1,4 +1,4 @@
 {
   "id": "app",
-  "image": "rocket.chat"
+  "image": "rocket.chat:latest"
 }
